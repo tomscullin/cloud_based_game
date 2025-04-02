@@ -24,8 +24,8 @@ A roadmap to building a dystopian text-based afterlife simulator.
 ### **Polish**
 
 - [x] Add simple console text flavor and humor
-- [ ] Write README.md
-- [ ] Write TODO.md (you’re here!)
+- [X] Write README.md
+- [X] Write TODO.md (you’re here!)
 
 ---
 
