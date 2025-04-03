@@ -53,8 +53,21 @@ As the project grows, it will expand to include:
 
 ## 📜 License
 
-This is a personal, experimental project.  
-Feel free to fork, remix, or laugh at how bleak it is.
+This project is shared under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+You are free to use, share, and adapt the code for personal and educational purposes.  
+**Commercial use is NOT allowed without explicit permission from the creator.**
+
+I reserve all rights to develop this project into a commercial product (Steam release, mobile game, etc.) in the future.
+
+To view a copy of this license, visit:  
+<https://creativecommons.org/licenses/by-nc/4.0/>
+
+---
+
+## ⭐️ Why This Project Exists
+
+This project is not just a game — it’s a Python learning project and a stepping stone toward future language learning apps and tools.  
+If you’re learning Python, you’re welcome to study and modify this code (just don’t try to sell it without asking nicely).
 
 ---
 
